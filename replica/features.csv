@@ -1,0 +1,7 @@
+feature,area,priority,original,clone,notes
+Boards,Core,Must,Yes,No,
+Cards,Core,Must,Yes,No,
+Planner,Core,Should,Yes,No,
+Inbox,Core,Could,Yes,No,
+Calendar Integration,Integration,Should,Yes,No,
+AI Summaries,AI,Could,Yes,No,Requires paid subscription.
